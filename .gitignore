@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Credentials
+.env
+*.key
+*.pem
+
+# Logs
+logs/*.log
+
+# Temporary files
+*.tmp
+.DS_Store
+
+# Private device backups
+backups/
